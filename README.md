@@ -1,4 +1,7 @@
-## Hi there 👋
+## Marhaba 👋, I'm Marwen Ayari
+
+- 🔭 I’m currently working on @SallaApp
+- 📫 How to reach me: marwenayarimail@gmail.com
 
 <!--
 **marwenayari/marwenayari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
